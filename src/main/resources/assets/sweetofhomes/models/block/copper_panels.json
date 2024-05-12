@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sweetofhomes:block/copper_panels_block"
+  }
+}

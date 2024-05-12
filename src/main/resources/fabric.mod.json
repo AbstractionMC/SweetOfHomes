@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "sweetofhomes",
+	"version": "${version}",
+	"name": "SweetOfHomes",
+	"description": "",
+	"authors": [
+		"rotgruengelb",
+		"shaun1p"
+	],
+	"contact": {
+		"sources": "https://github.com/AbstractionMC/sweetofhomes"
+	},
+	"license": "MIT/ARR",
+	"icon": "assets/sweetofhomes/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.rotgruengelb.sweetofhomes.SweetOfHomes"
+		],
+		"client": [
+			"net.rotgruengelb.sweetofhomes.SweetOfHomesClient"
+		]
+	},
+	"mixins": [
+		"sweetofhomes.mixins.json",
+		{
+			"config": "sweetofhomes.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=${loader_version}",
+		"minecraft": "~${minecraft_version}",
+		"java": ">=17",
+		"fabric-api": ">=0.96.4+1.20.4",
+		"nixienaut": ">=${nixienaut_version}"
+	}
+}
