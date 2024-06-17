@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "sweetofhomes:copper_blitz",
+    "sweetofhomes:exposed_copper_blitz",
+    "sweetofhomes:weathered_copper_blitz",
+    "sweetofhomes:oxidized_copper_blitz",
+    "sweetofhomes:waxed_copper_blitz",
+    "sweetofhomes:waxed_exposed_copper_blitz",
+    "sweetofhomes:waxed_weathered_copper_blitz",
+    "sweetofhomes:waxed_oxidized_copper_blitz",
+    "sweetofhomes:copper_panels",
+    "sweetofhomes:exposed_copper_panels",
+    "sweetofhomes:weathered_copper_panels",
+    "sweetofhomes:oxidized_copper_panels",
+    "sweetofhomes:waxed_copper_panels",
+    "sweetofhomes:waxed_exposed_copper_panels",
+    "sweetofhomes:waxed_weathered_copper_panels",
+    "sweetofhomes:waxed_oxidized_copper_panels",
+    "sweetofhomes:copper_pillar",
+    "sweetofhomes:exposed_copper_pillar",
+    "sweetofhomes:weathered_copper_pillar",
+    "sweetofhomes:oxidized_copper_pillar",
+    "sweetofhomes:waxed_copper_pillar",
+    "sweetofhomes:waxed_exposed_copper_pillar",
+    "sweetofhomes:waxed_weathered_copper_pillar",
+    "sweetofhomes:waxed_oxidized_copper_pillar"
+  ]
+}

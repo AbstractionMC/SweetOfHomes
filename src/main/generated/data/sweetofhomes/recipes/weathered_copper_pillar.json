@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": {
+      "item": "minecraft:weathered_copper"
+    },
+    "S": {
+      "item": "sweetofhomes:copper_nugget"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "SCS",
+    "SCS"
+  ],
+  "result": {
+    "count": 4,
+    "item": "sweetofhomes:weathered_copper_pillar"
+  }
+}

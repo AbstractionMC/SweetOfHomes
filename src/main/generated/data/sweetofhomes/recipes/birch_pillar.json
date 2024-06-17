@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": {
+      "item": "minecraft:birch_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "SCS",
+    "SCS"
+  ],
+  "result": {
+    "count": 4,
+    "item": "sweetofhomes:birch_pillar"
+  }
+}

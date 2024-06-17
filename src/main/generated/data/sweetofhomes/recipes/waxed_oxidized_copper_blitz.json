@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "A": {
+      "item": "sweetofhomes:copper_nugget"
+    },
+    "B": {
+      "item": "minecraft:waxed_oxidized_copper"
+    }
+  },
+  "pattern": [
+    "AB",
+    "BA"
+  ],
+  "result": {
+    "count": 2,
+    "item": "sweetofhomes:waxed_oxidized_copper_blitz"
+  }
+}

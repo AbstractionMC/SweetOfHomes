@@ -1,0 +1,6 @@
+{
+  "parent": "sweetofhomes:block/template_chair",
+  "textures": {
+    "texture": "sweetofhomes:block/spruce_chair"
+  }
+}

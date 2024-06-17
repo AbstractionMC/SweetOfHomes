@@ -20,6 +20,9 @@
 		],
 		"client": [
 			"net.rotgruengelb.sweetofhomes.SweetOfHomesClient"
+		],
+		"fabric-datagen": [
+			"net.rotgruengelb.sweetofhomes.datagen.SweetOfHomesDataGenerator"
 		]
 	},
 	"mixins": [
